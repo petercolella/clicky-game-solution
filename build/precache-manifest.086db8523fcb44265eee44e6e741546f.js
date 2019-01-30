@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/clicky-game-solution/static/js/runtime~main.d32b4ad0.js"
   },
   {
-    "revision": "4c1628c003f97a18c7761a67cb004206",
+    "revision": "516408e806ad0924bdcf786cee311a53",
     "url": "/clicky-game-solution/index.html"
   }
 ];
